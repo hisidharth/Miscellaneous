@@ -1,0 +1,13 @@
+print("Instructions: Choose a type of word to enter, after all the words are entered the story will print")
+pnoun1=input("Enter a proper noun:")
+place1=input("Enter a place")
+place2=input("Enter another place")
+adverb=input("enter an adverb")
+noun1=input("Enter a noun")
+adjective1=input("Enter a adjective")
+adverb2=input("Enter another adverb")
+verb=input("Enter a Verb")
+place3=input("Enter a place")
+adjective2=input("Enter another adjective")
+
+print("It was a",adjective2,"day in",place1+". Our hero",pnoun1,"was on a walk from",place2,"to",place3+".",pnoun1,"found a",adjective1,noun1+".")         
